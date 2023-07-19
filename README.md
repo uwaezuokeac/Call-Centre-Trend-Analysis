@@ -45,6 +45,7 @@ To show an understanding of the dataset, the data description is shown below:
 
 ## Mockup draft
 Based on the report requirements, a draft of the report was thoughtful created (_shown below_) as a guide in the course of building the report.
+
 ![](MockUp.png)
 
 ## ETL
